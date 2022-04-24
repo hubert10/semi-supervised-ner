@@ -1,0 +1,334 @@
+1-800-FLOWERS.COM
+3M
+7-Eleven
+ABC
+Abbott Laboratories
+Accenture
+ACME Communications
+Adidas
+AdSpace Networks
+Aflac
+Air Tahiti Nui
+Albemarle
+Alcoa
+Allergan
+Alliant Techsystems
+Allstate
+Alticor
+Amway
+Altria
+AMD
+Amazon
+AMECO
+American Airlines
+American Express
+American International
+American Water
+Amgen
+Anheuser-Busch
+AOL
+America Online
+ARAMARK
+Archer Daniels Midland
+Armor Holdings,
+AstraZeneca
+AT&T
+AutoZone
+Avon
+Bacardi
+BAE Systems
+Bain
+Bain Capital
+Bank of America Corp
+Bank of New York
+Barrick Gold
+Baxter International
+Bayer
+Bear, Stearns & Co
+Bechtel
+Belo
+Bertelsmann AG
+Best Buy
+BHP Billiton
+Bioibérica
+BioPort
+Blackstone
+Blackwater USA
+Boeing
+BP
+Brillstein Security
+Brinker International
+Chili's Grill & Bar)
+Bristol-Myers Squibb
+British Airways
+British American Tobacco
+Brown Brothers and Company
+Burger King
+Cable News Network
+CNN
+Cadillac
+Cameco
+Campbell Soup
+CanWest Global Communications Corp
+Capital One
+Cargill
+Carlyle
+Caterpillar
+CBS
+Charles Schwab
+ChevronTexaco
+Chiquita Brands International
+CIGNA
+Circuit City
+Clear Channel Communications
+Clorox
+Coca-Cola Company
+Coeur d'Alene Mines
+Comcast
+CompUSA
+Computer Sciences
+ConAgra
+ConocoPhillips
+Constella
+Corrections  of America
+Credit Suisse
+Cubic
+CVS Caremark
+DaimlerChrysler
+Darden Restaurants
+Olive Garden
+Dean Foods Company
+Dell
+Delta Air Lines
+Diageo
+Diebold Election Systems
+Diebold
+Diesel
+DIRECTV
+Dole
+Domino's Pizza
+Dow Chemical Company
+Dow Jones & Company
+Duke Energy
+DuPont
+DynCorp
+Eastman Kodak Co
+Kodak
+EchoStar
+Electronic Data Systems
+EDS
+Eli Lilly and Company
+ENRON
+Enterprise Rent-A-Car
+Ernst & Young
+EUBSA BV
+Expedia
+ExxonMobil
+FedEx
+Fidelity Investments
+Fifth Third Bank
+Fisher-Price
+Ford
+Fortune Brands
+Freeport-McMoRan Copper & Gold
+G4S
+Gannett
+Gap
+Garda World Security
+Gelmart Industries
+General Dynamics
+General Electric
+General Mills
+General Motors
+Gentiva Health Services
+Gilead Sciences
+GlaxoSmithKline
+Global Crossing Development
+Golan
+Goldman Sachs
+Goodyear
+Google
+Granite Broadcasting
+Greystone,
+Gulf Oil
+Gunns
+H&M Hennes & Mauritz AB
+Halliburton Company
+Hallmark Cards
+Hasbro
+HCA
+HealthSouth
+Heineken
+Heinz
+Hewlett-Packard Company
+Hilton Hotels
+Hollinger
+Hollinger International
+Home Depot
+Homeland Security
+Honeywell
+Huntingdon Life Sciences
+IAC/InterActiveCorp
+IBM
+Inditex
+Intel
+International Paper
+Jackson Hewitt
+J. C. Penney
+Johnson & Johnson
+JPMorgan Chase
+Karl Rove & Company
+Kellogg Brown and Root
+Kellogg Company
+Kelly Services
+Kimberly-Clark
+Kindred Healthcare
+KKR
+Koch Industries
+KPMG
+Kraft
+Kroger
+Kroll,
+L-3 Communications Holdings
+Lamar Advertising
+Las Vegas Sands
+Lehman Brothers
+Leiner Health Products
+Liberty
+Limited Brands
+Liz Claiborne Inc
+Lockheed Martin
+Macy's
+Manpower
+ManTech International
+Marathon
+Marriott
+Mars
+Masco
+MasterCard
+Match.com
+Matrixx Initiatives
+McDonald's
+The McGraw-Hill Companies
+Merck
+Merrill Lynch
+Metal Storm Limited
+MGM Mirage
+Microsoft
+Molson Coors
+Monsanto
+Morgan Stanley
+Motorola
+MSNBC
+MVM
+Namco
+National City
+NBC
+Nestlé
+NetTrekker
+The New York Times Company
+Newmont Mining
+News
+Nexstar Broadcasting
+Nike
+Nippon Oil
+Northrop Grumman
+Northwest Airlines
+Novartis
+Office Depot
+Oracle
+OSI Restaurant Partners
+Outback Steakhouse
+Panasonic
+PepsiCo
+Pfizer Inc
+PricewaterhouseCoopers
+Primedia
+Procter & Gamble
+Prudential Financial
+Quest Diagnostics
+Qwest Communications
+RadioShack
+Raytheon
+Reed Elsevier
+Rite Aid Drugs
+R.J. Reynolds Tobacco Company
+Roche
+Royal Caribbean Cruises
+SABMiller
+Safeway
+Sallie Mae
+Sandals Resorts
+Sanofi-Aventis
+S.C. Johnson & Son
+Schering-Plough
+Scholastic
+Science Applications International
+Securitas
+Sequoia Voting Systems
+The Shaw
+Shell
+Sherwin-Williams
+Siemens
+Sierra Pacific Industries
+SilverWind Power
+Smithfield Foods
+Solvay
+Sprint Nextel
+Standard Oil
+Staples
+Starbucks
+Starwood Hotels
+State Farm
+Stiefel Laboratories
+Subway
+Sunoco
+SunTrust Bank
+SUPERVALU
+Synova Healthcare
+Taco Bell
+Target
+Techno Source
+Tenix
+Tesco
+Texas Instruments
+Time Warner
+TJX
+Torchmark
+Toshiba
+Total Intelligence Solutions
+Towers Perrin
+Trend Micro
+Tribune Company
+TXU
+Tyco International
+Tyson Foods
+U.S. Bancorp
+Unisys
+United Airlines
+United Parcel Service
+United Technologies
+UnitedHealth
+Unocal
+Valero
+VaxGen
+Verizon Communications
+Viacom
+Victoria's Secret
+Viking River Cruises
+Vinnell
+Wachovia
+Wackenhut
+Wal-Mart Stores
+Walgreen
+The Walt Disney Company
+Washington Post
+WellPoint
+Wells Fargo
+Wendy's
+Westinghouse Electric
+Weyerhaeuser
+Whirlpool
+Wyeth
+YukosSibneft Oil Company
+YUM! Brands
